@@ -1,0 +1,2 @@
+# ApriPocoMotionRelation
+ApriPocoMotionの中身を分割したもの
